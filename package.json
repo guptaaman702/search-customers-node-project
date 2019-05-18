@@ -17,7 +17,7 @@
     "express-validation": "^1.0.2",
     "joi": "^14.3.1",
     "morgan": "^1.9.1",
-    "search-customers": "^1.0.1"
+    "search-customers": "^1.0.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
